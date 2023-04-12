@@ -6,6 +6,9 @@ As I know pulling data from sites can be a headache at time, I've pulled all reg
 
 Here is the link to the google docs link: https://drive.google.com/file/d/1AAxMWC_SSk6lCWPmnWUmbl8MA4pzVbX1/view?usp=sharing
 
+--- Example 
+
+<img width="1330" alt="Screenshot 2023-04-12 at 8 52 07 AM" src="https://user-images.githubusercontent.com/70119566/231479173-463e8dbd-cc06-4612-b189-ae6ba36cfdda.png">
 
 --- Example 
 
