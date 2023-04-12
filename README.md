@@ -12,10 +12,22 @@ Here is the link to the google docs link: https://drive.google.com/file/d/1l_iWg
 --- Data Dictionary
 
 - POSS: Number of possessions used by that player, in that play type, in that year.
-- FREQ: Percentage of total possessions used by that player, in that play type, in that year.
-  - FREQ_PCTL: Percentile rank of play type usage
-- PPP: Points per possessions of that player, in that play type, in that year.
-  - PPP_PCTL: Percentile rank of points per possessions of that player, in that play type, in that year.
+- FREQ: Frequency of play type used by that player, in that play type, in that year. (%)
+  - FREQ_PCTL: Percentile rank of play type frequency.
+  - Scale of 0 to 100 --- (0 relates to worst while 100 relates to best)
+- PPP: Points per possessions of that player, in that play type, in that year. (%)
+  - PPP_PCTL: Percentile rank of PPP variable. 
+  - Scale of 0 to 100 --- (0 relates to worst while 100 relates to best)
+- GP: Games Played
+- PTS: Points
+- FG: Field goals made
+- FGA: Field goals attempted
+- FG_PCT: Field goal percentage (%)
+- EFG_PCT: Effective field goal percentage (%)
+- SF_FREQ: Frequency of shooting fouls drawn (%)
+- FTA_FREQ: Frequency of free throws attempted (%)
+- AND1_FREQ: Frequency of and one plays made (%)
+- TOV_FREQ: Frequenyc of turnovers committed (%)
 
 
 
