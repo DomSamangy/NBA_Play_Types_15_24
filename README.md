@@ -1,8 +1,12 @@
 # NBA Play Type Data - 2016-2023
 
-NBA regular season shot data from the 2003-04 season to 2021-22.
+NBA regular season play type data from the 2015-16 to the recently completed 2022-23 season.
 
-As I know pulling data from sites can be a headache at time, I've pulled all regular season shots from 2004-2022 seasons into this single csv file. Hoping it can help inspire some cool projects!.
+Some of the coolest NBA data resides on NBA.com but is not easily accessible. Their play type data, provided by synergy sports, is unique in that in provides extreme nuance about a player's game that is hard to find in publicly available data. Thus, I've scraped all 8 seasons of available play type data since 2015 (began tracking in 2015) and provided in the link below! I've also cleaned it quite a bit to improve uniformity and also added percentile ranks to allow for easier comaprisons between players. Hoping it can help inspire some cool projects!
+
+--- Data Source
+
+NBA.com via Synergy Sports
 
 --- Link to Data 
 
