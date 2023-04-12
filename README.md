@@ -10,7 +10,7 @@ NBA.com via Synergy Sports
 
 --- Link to Data 
 
-Here is the link to the google docs link: https://drive.google.com/file/d/1l_iWg48ENmb3NHAAHGLHG2ZrDxHjqafJ/view?usp=sharing
+Here is the link to the google drive folder: https://drive.google.com/file/d/1l_iWg48ENmb3NHAAHGLHG2ZrDxHjqafJ/view?usp=sharing
 
 
 --- Data Dictionary
