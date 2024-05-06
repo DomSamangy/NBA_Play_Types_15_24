@@ -1,8 +1,8 @@
-# NBA Play Type Data - 2016-2023
+# NBA Play Type Data - 2016-2024
 
-NBA regular season play type data from 2015-16 to the recently completed 2022-23 season.
+NBA regular season play type data from 2015-16 to the recently completed 2023-24 season.
 
-Some of the coolest NBA data resides on NBA.com but is not easily accessible. Their play type data, provided by Synergy Sports, is unique in that in provides extreme nuance about a player's game but is hard to find in publicly available data. So... I've scraped all 8 seasons of available play type data since 2015 (began tracking in 2015) and provided it in the link below! I've also cleaned it quite a bit to improve uniformity and also added percentile ranks to allow for easier comaprisons between players. Hoping it can help inspire some cool projects!
+Some of the coolest NBA data resides on NBA.com but is not easily accessible. Their play type data, provided by Synergy Sports, is unique in that in provides extreme nuance about a player's game but is hard to find in publicly available data. So... I've scraped all 9 seasons of available play type data since 2015 (began tracking in 2015) and provided it in the link below! I've also cleaned it quite a bit to improve uniformity and also added percentile ranks to allow for easier comparisons between players. Hoping it can help inspire some cool projects!
 
 --- Data Source
 
@@ -10,7 +10,7 @@ NBA.com via Synergy Sports
 
 --- Link to Data 
 
-Here is the link to the google drive folder: https://drive.google.com/file/d/1l_iWg48ENmb3NHAAHGLHG2ZrDxHjqafJ/view?usp=sharing
+Here is the link to the google drive folder: https://drive.google.com/file/d/1_MRRh31zy3b3yhwAVNw5R61lbBXO9cfu/view?usp=sharing
 
 
 --- Data Dictionary
