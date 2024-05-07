@@ -1,4 +1,4 @@
-# NBA Play Type Data - 2016-2024
+# NBA Play Type Data - 2015-2024
 
 NBA regular season play type data from 2015-16 to the recently completed 2023-24 season.
 
